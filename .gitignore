@@ -1,0 +1,8 @@
+__pycache__
+build
+dist/*
+!dist/main.exe
+*.csv
+*.txt
+*.spec
+.vscode
